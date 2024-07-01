@@ -10,6 +10,7 @@
   * [npm yarn安装](tian-jia-zu-jian/npm-yarn-an-zhuang.md)
   * [git sumodule 集成](tian-jia-zu-jian/git-sumodule-ji-cheng.md)
   * [基于已有组件的封装](tian-jia-zu-jian/ji-yu-yi-you-zu-jian-de-feng-zhuang.md)
+  * [monorepo](tian-jia-zu-jian/monorepo.md)
 * [实战项目](shi-zhan-xiang-mu/README.md)
   * [admin-tpl](shi-zhan-xiang-mu/admin-tpl.md)
   * [webapp](shi-zhan-xiang-mu/webapp.md)
