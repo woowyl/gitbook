@@ -1,13 +1,6 @@
 ---
-description: 目前用到的工具主要有，
+description: 第一个默认的是reaame?
 ---
 
-# 关于怎么去总结
+# RD
 
-微信公众号
-
-gitbook
-
-github
-
-印象笔记
